@@ -1,5 +1,5 @@
 #pragma once
-#include "C:\Users\aapot\Desktop\Copyparty\programs\SyatiManager\Syati\include\syati.h"  
+#include "syati.h"  
 
 class PointGravityCreator;
 
