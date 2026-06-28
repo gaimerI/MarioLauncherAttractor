@@ -1,0 +1,17 @@
+{
+  "Name": "MarioLauncherAttractor",
+  "Author": "gaimerI17",
+  "Description": "An object that pulls Mario to its position if he is shot via a cannon.",
+  "InstallDependencies": ["Syati_ObjectFactories", "Syati_Init"],
+  "ModuleData" : [
+    {
+      "NameObjFactory" : [
+        {
+          "Name" : "MarioLauncherAttractor",
+          "Function" : "createExtActor<MarioLauncherAttractor>",
+          "Include" : "MarioLauncherAttractor.h"
+        }
+      ]
+    }
+  ]
+}
