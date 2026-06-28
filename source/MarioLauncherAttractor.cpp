@@ -1,4 +1,4 @@
-#include "../include/MarioLauncherAttractor.h"
+#include "MarioLauncherAttractor.h"
 
 namespace NrvMarioLauncherAttractor {
     FULL_NERVE(MarioLauncherAttractorNrvWait, MarioLauncherAttractor, Wait);
