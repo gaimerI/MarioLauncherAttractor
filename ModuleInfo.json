@@ -2,7 +2,8 @@
   "Name": "MarioLauncherAttractor",
   "Author": "gaimerI17",
   "Description": "A gravity that affects the player if they are shot from a Player Cannon.",
-  "InstallDependencies": ["Syati_ObjectFactories", "Syati_Init"],
+  "InstallDependencies": [ "Syati_ObjectFactories", "Syati_Init" ],
+  "SupportedGames": [ "SB4" ],
   "ModuleData" : [
     {
       "NameObjFactory" : [
