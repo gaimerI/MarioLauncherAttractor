@@ -1,7 +1,7 @@
 {
   "Name": "MarioLauncherAttractor",
   "Author": "gaimerI17",
-  "Description": "An object that pulls Mario to its position if he is shot via a cannon.",
+  "Description": "A gravity that affects the player if they are shot from a Player Cannon.",
   "InstallDependencies": ["Syati_ObjectFactories", "Syati_Init"],
   "ModuleData" : [
     {
